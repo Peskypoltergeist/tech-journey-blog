@@ -25,7 +25,7 @@ export default function Home() {
           </p>
           <div className={'my-4'}>
             <i>
-              click for "minecraft"{' '}
+              click for minecraft{' '}
               <button className={'btn btn-primary'}>
                 <Link href={'https://spq9mg.csb.app/'}>
                   <span className={'text-primary-content'}>
