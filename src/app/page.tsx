@@ -11,7 +11,7 @@ type AllPostsData = {
 }[]
 
 // Change this url to change the image!
-const imageUrl = 'https://unsplash.com/photos/P_nM4HIeX8Y';
+const imageUrl = 'https://unsplash.com/photos/jBlynjgG5OM';
 const imageKey = imageUrl.split('/').at(-1);
 
 export default function Home() {
@@ -25,9 +25,9 @@ export default function Home() {
           </p>
           <div className={'my-4'}>
             <i>
-              Check out the repo{' '}
+              click for "minecraft"{' '}
               <button className={'btn btn-primary'}>
-                <Link href={'https://github.com//tech-journey-blog'}>
+                <Link href={'https://spq9mg.csb.app/'}>
                   <span className={'text-primary-content'}>
                     here
                   </span>
@@ -45,7 +45,7 @@ export default function Home() {
         <section className={'prose'}>
           <h2>Blog</h2>
           <ul>
-            {allPostsData.map(({id, date, title}) => (
+            {allPostsData.slice(0,1).map(({id, date, title}) => (
                 <li key={id}>
                   <div>
                     <Link href={`/posts/${id}`}>{title}</Link>

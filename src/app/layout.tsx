@@ -1,6 +1,6 @@
 import './globals.css'
 import type {Metadata} from 'next'
-import {Inter} from 'next/font/google'
+import  {Fredericka_the_Great, Julee, Nothing_You_Could_Do} from 'next/font/google'
 import NavBarContainer from "@/components/NavBarContainer";
 import Footer from "@/components/Footer";
 
@@ -9,12 +9,12 @@ TODO:  Change these things along with:
   - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
-const font = Inter({subsets: ['latin']})
+const font = Julee({ weight:'400', subsets: ['latin']})
 const title = 'E\'s Site';
 const description = 'This the Tech Journey template site';
 const links = [
-  {title: 'Pokemon', href: '/pokemon'},
-  {title: 'Rick and Morty', href: '/rick-and-morty'}
+  //{title: 'Pokemon', href: '/pokemon'},
+  //{title: 'Rick and Morty', href: '/rick-and-morty'}
 ];
 const SocialLinks = {
   twitter: '#twitter',
