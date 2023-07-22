@@ -13,7 +13,7 @@ const font = Julee({ weight:'400', subsets: ['latin']})
 const title = 'E\'s Site';
 const description = 'This the Tech Journey template site';
 const links = [ 
-  {title: 'hi', href: '/pokemon'},
+  {title: ' ', href: '/pokemon'},
  ];
 const SocialLinks = {
   twitter: '#twitter',
