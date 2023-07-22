@@ -7,7 +7,8 @@ you walk inside and look around the tent its dark but you can make out a bed an 
 
 [inspect the desk]()
 
-[try to light the fire pit]()
+[inspect the fire pit]()
 
-[leave the room]()
+[inspect the bed]()
+
 
