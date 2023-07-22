@@ -12,7 +12,9 @@ TODO:  Change these things along with:
 const font = Julee({ weight:'400', subsets: ['latin']})
 const title = 'E\'s Site';
 const description = 'This the Tech Journey template site';
-const links = [ ];
+const links = [ 
+  {title: 'hi', href: '/pokemon'},
+ ];
 const SocialLinks = {
   twitter: '#twitter',
   github: '#github',
