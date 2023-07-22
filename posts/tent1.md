@@ -7,4 +7,4 @@ as you walk inside you take a minuite to admire the wood carvings holding the te
 
 [say hi](isacd)
 
-[look around](isacd1)
+[look around](i1)

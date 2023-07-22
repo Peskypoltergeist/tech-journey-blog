@@ -17,6 +17,6 @@ you have a better look at his face now he has red-ish eyes with short pale white
 
 "uhm hi... im isacc" 
 
-[sorry i did not mean to startle you](i)
+[sorry i did not mean to startle you]( )
 
-[what are you doing?](i1)
+[what are you doing?]( )
