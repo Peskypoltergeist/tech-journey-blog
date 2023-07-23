@@ -9,3 +9,5 @@ he just sits there and looks at you for a minute trying to calm himself down
 "i- how long have you been there?"
 
 he puts the bird wood carving off to the side 
+
+[what are you doing?](wood1)
